@@ -1,3 +1,4 @@
 00007ffff7dca000 -- base
 000000000004c330 -- system
 196031 -- /bin/sh
+0x00000000004011cb -- pop rdi
